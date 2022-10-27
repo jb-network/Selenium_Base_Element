@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-from Python_Daily_Work.Traning_Ground_2 import TrainingGroundPage
+from Python_Daily_Work.Traning_Ground import TrainingGroundPage
 
 # Test Setup
 browser = webdriver.Chrome()
